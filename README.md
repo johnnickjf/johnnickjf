@@ -6,10 +6,9 @@
 </div>
  <br>
  <div>
- NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github.
+ *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/johnnickjf)*
  </div>
 <br>
-  ##
 
 <div> 
   <a href="https://www.linkedin.com/in/johnnickjf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a>
