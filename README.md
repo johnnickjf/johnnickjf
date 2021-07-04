@@ -16,7 +16,7 @@
  	<a href="https://www.twitch.tv/jakefakez" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/johnnickjf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/jakefakejf" target="_blank"><img src="https://img.shields.io/badge/spotify-81b71?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  <a href = "mailto:johnnick.landim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:johnnick.landim@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=Email&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/johnnickjf/johnnickjf/blob/output/github-contribution-grid-snake.svg)
  
