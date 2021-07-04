@@ -5,7 +5,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnickjf&layout=compact&langs_count=16&theme=react"/>
 </div>
   
+ <div>
  NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github.
+ </div>
 
   ##
 
