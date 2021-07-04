@@ -1,13 +1,17 @@
 ## Olá! Meu nome é [Johnnick F. Landim.](https://www.linkedin.com/in/johnnickjf/)👋
+
  <div>
   <a href="https://github.com/johnnickjf"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=johnnickjf&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnickjf&layout=compact&langs_count=16&theme=react"/>
 </div>
+
  <br>
+
  <div>
- NOTE: <i>Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github readme stats.</i>
+ ## NOTE: <i>Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github readme stats.</i>
  </div>
+
 <br>
 
 <div> 
@@ -19,5 +23,5 @@
   <a href = "mailto:johnnick.landim@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=Email&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/johnnickjf/johnnickjf/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
