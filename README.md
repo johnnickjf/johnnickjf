@@ -1,12 +1,14 @@
-## Olá! Meu nome é Johnnick F. Landim.
+## Olá! Meu nome é [Johnnick F. Landim.](https://www.linkedin.com/in/johnnickjf/)👋
  <div>
   <a href="https://github.com/johnnickjf">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=johnnickjf&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnickjf&layout=compact&langs_count=16&theme=react"/>
 </div>
   
+ NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github.
+
   ##
- 
+
 <div> 
   <a href="https://www.linkedin.com/in/johnnickjf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/7ue5tKB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
