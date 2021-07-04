@@ -1,8 +1,8 @@
 ## Olá! Meu nome é Johnnick F. Landim.
  <div>
   <a href="https://github.com/johnnickjf">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=johnnickjf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnickjf&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=johnnickjf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnickjf&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
   ##
