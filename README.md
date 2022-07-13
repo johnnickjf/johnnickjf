@@ -1,4 +1,6 @@
 ## Olá! Meu nome é [Johnnick F. Landim.](https://www.linkedin.com/in/johnnickjf/)👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=078bfc&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:D;)](https://git.io/typing-svg)
+
 
  <div>
   <a href="https://github.com/johnnickjf"></a>
